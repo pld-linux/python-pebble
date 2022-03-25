@@ -8,7 +8,7 @@ Summary:	Threading and multiprocessing eye-candy
 Summary(pl.UTF-8):	Miłe dla oka wątli i wieloprocesowość
 Name:		python-pebble
 Version:	4.4.0
-Release:	3
+Release:	4
 License:	LGPL v3+
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pebble/
